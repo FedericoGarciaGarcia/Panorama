@@ -14,10 +14,10 @@ SIFT and SURF Keypoints and descriptors.
 
 Matching using Lowe 2NN and Brute Force.
 
-![3](https://raw.githubusercontent.com/FedericoGarciaGarcia/MachineLearning/master/files/informe/Pictures/ej2_2nn.jpg)
+![3](https://raw.githubusercontent.com/FedericoGarciaGarcia/Panorama/master/files/informe/Pictures/ej2_2nn.jpg)
 
-![3](https://raw.githubusercontent.com/FedericoGarciaGarcia/MachineLearning/master/files/informe/Pictures/ej2_bf.jpg)
+![3](https://raw.githubusercontent.com/FedericoGarciaGarcia/Panorama/master/files/informe/Pictures/ej2_bf.jpg)
 
 ### Stitching
 
-![4](https://raw.githubusercontent.com/FedericoGarciaGarcia/MachineLearning/master/files/informe/Pictures/panorama1.jpg)
+![4](https://raw.githubusercontent.com/FedericoGarciaGarcia/Panorama/master/files/informe/Pictures/panorama1.jpg)
