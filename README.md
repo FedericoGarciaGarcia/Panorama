@@ -1,4 +1,4 @@
-# Panorama creation
+# Panorama
 
 Panorama creation done in University with Python and OpenCV.
 
